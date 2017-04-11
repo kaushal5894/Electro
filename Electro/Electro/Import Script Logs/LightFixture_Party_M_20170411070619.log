@@ -1,0 +1,13 @@
+4/12/2017 12:36:19 AM	This log contains information about the import operation of the script 'LightFixture_Party_Mapping.sql' into project 'Electro' on computer 'DELL-PC' by user'DELL.
+4/12/2017 12:36:19 AM	Started importing file: C:\Users\DELL\Desktop\LightFixture_Party_Mapping.sql 
+4/12/2017 12:36:19 AM	File name C:\Users\DELL\Desktop\LightFixture_Party_Mapping.sql (size: 652)
+4/12/2017 12:36:19 AM	Parsing import script
+4/12/2017 12:36:19 AM	Total number of batches in script: 4
+4/12/2017 12:36:19 AM	Total number of statements in script: 1
+4/12/2017 12:36:19 AM	The script was successfully imported into the project.
+4/12/2017 12:36:19 AM	Analyzing schema objects...
+4/12/2017 12:36:19 AM	Scanning project for duplicate elements
+4/12/2017 12:36:19 AM	Finished duplicate element processing
+4/12/2017 12:36:19 AM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+4/12/2017 12:36:19 AM	A summary of the import was saved to the following location: D:\Electro\Electro\Electro\Import Script Logs\LightFixture_Party_M_20170411070619.log
+4/12/2017 12:36:19 AM	Click Finish to continue...
